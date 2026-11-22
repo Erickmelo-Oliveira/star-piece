@@ -2,12 +2,14 @@
 
 Site institucional do Star Piece, iniciativa de soluções tecnológicas para pessoas com deficiência e de apoio a programadores iniciantes em Mato Grosso.
 
-🔗 **Site:** [COLOQUE O ENDEREÇO CERTO]
+🔗 **Site:** https://star-piece.netlify.app/
+
+<img width="927" height="797" alt="Tela inicial do site Star Piece" src="https://github.com/user-attachments/assets/88340466-9c76-46c6-8db6-b62e05354325" />
 
 ## Sobre o projeto
 A primeira versão foi gerada com apoio de IA (Bolt). Estou estudando o código e evoluindo o projeto por conta própria, com um commit para cada alteração.
 
-**Minha parte:** [uma frase sobre o que você faz]
+**Minha parte:** idealização, direção e conteúdo do projeto. A primeira versão do código foi gerada com apoio de IA (Bolt); agora estudo o código e faço as alterações por conta própria.
 
 ## O que eu já fiz
 - Corrigi o link do LinkedIn nas seções de Contato e Rodapé
