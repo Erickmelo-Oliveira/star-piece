@@ -4,8 +4,6 @@ Site institucional do Star Piece, iniciativa de soluções tecnológicas para pe
 
 🔗 **Site:** https://star-piece.netlify.app/
 
-<img width="927" height="797" alt="Tela inicial do site Star Piece" src="https://github.com/user-attachments/assets/88340466-9c76-46c6-8db6-b62e05354325" />
-
 ## Sobre o projeto
 A primeira versão foi gerada com apoio de IA (Bolt). Estou estudando o código e evoluindo o projeto por conta própria, com um commit para cada alteração.
 
